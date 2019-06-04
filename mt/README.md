@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 * Commands to get embeddings
 
-bash get_fasttext.sh
+get_all_pretrained.sh
 
 * Commands to Train + Evaluate (e.g. a language pair might be: en-aztr):
 
