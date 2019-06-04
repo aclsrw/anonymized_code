@@ -1,4 +1,12 @@
-# fkcd
+# Sentence Evaluation Experiments
+
+Pre-run Requirements:
+-------------------------------
+* Python 3.6 environment
+* wget https://github.com/facebookresearch/SentEval/archive/master.zip
+* unzip master.zip
+* mv SentEval-master SentEval
+-------------------------------
 
 * Step 1
 
@@ -21,11 +29,4 @@ bash run.sh >& results_bigram.txt
 
 python extract_single_task.py results_bigram.txt
 
--------------------------------
-
-* Python 3.6 environment
-
-* wget https://github.com/facebookresearch/SentEval/archive/master.zip
-* unzip master.zip
-* mv SentEval-master SentEval
 
