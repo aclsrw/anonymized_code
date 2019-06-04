@@ -11,6 +11,7 @@ Pre-run Requirements:
 * Step 1
 
 wget http://nlp.stanford.edu/data/glove.6B.zip
+
 unzip glove.6B.zip
 
 * Step 2
